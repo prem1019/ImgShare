@@ -1,0 +1,23 @@
+/* Styles go here */
+.feed{
+    text-decoration: none;
+}
+.profile{
+    text-decoration: none;
+}
+.main{
+    background-color: blueviolet;
+}
+.Nav{
+    height: 8%;
+}
+#loader{
+    margin-top: 100px;
+}
+.background{
+    background-color: blueviolet;
+}
+.footer{
+    height: 8%;
+
+}
